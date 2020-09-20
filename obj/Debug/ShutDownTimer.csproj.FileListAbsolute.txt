@@ -1,0 +1,9 @@
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\bin\Debug\ShutDownTimer.exe.config
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\bin\Debug\ShutDownTimer.exe
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\bin\Debug\ShutDownTimer.pdb
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\obj\Debug\ShutDownTimer.csprojResolveAssemblyReference.cache
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\obj\Debug\ShutDownTimer.Form1.resources
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\obj\Debug\ShutDownTimer.Properties.Resources.resources
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\obj\Debug\ShutDownTimer.csproj.GenerateResource.Cache
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\obj\Debug\ShutDownTimer.exe
+c:\users\sdt\documents\visual studio 2015\Projects\ShutDownTimer\ShutDownTimer\obj\Debug\ShutDownTimer.pdb
